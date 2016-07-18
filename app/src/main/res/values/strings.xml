@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OpenDays</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="abouttext">The goal of the opendays is to develop an android application for ISEP Open Days.
+        \n\nHere are some of its features:
+        \n\n1. When the visitor arrives at ISEP, he/she can flash a QR code to download the application
+        \n\n2. The application provides a map of the building where the list of places to visit is indicated
+        \n\n3. The application can warn the visitor that a conference is about to begin
+        \n\n4. News or tweets of the day can be integrated into the application
+    </string>
+</resources>
